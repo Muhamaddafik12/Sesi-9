@@ -2,7 +2,7 @@ import imageio.v3 as i
 import matplotlib.pyplot as plt
 import numpy as np
 
-img = i.imread("C:\\Users\\dhika\\Documents\\pcd\\gtp.jpg",mode ='F')
+img = i.imread("C:\Users\ACER\Downloads\cv bola.png",mode ='F')
 
 rx =np.array([
     [1,0],
